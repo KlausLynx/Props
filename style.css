@@ -1,5 +1,5 @@
 .welcome{
-    background-image: url(../Projects/img/istockphoto-1365566546-612x612.jpg); 
+    background-image: url(img/istockphoto-1365566546-612x612.jpg); 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 20% 20%;
@@ -59,7 +59,7 @@
  }
 
  .image-gc-1{
-    background-image:url(/Projects/img/istockphoto-1317634886-612x612.jpg);
+    background-image:url(img/istockphoto-1317634886-612x612.jpg);
     
  }
  .image-gc-2{
