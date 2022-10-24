@@ -1,5 +1,5 @@
 .welcome{
-    background-image: url(img/istockphoto-1365566546-612x612.jpg); 
+    background-image: url(istockphoto-1365566546-612x612.jpg); 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 20% 20%;
@@ -59,32 +59,32 @@
  }
 
  .image-gc-1{
-    background-image:url(img/istockphoto-1317634886-612x612.jpg);
+    background-image:url(istockphoto-1317634886-612x612.jpg);
     
  }
  .image-gc-2{
-    background-image:url(/Projects/img/istockphoto-1365566546-612x612.jpg);
+    background-image:url(istockphoto-1365566546-612x612.jpg);
  }
  .image-gc-3{
-    background-image:url(/Projects/img/istockphoto-1386848937-612x612.jpg);
+    background-image:url(istockphoto-1386848937-612x612.jpg);
  }
  .image-gc-4{
-    background-image:url(/Projects/img/istockphoto-1164669481-612x612.jpg);
+    background-image:url(istockphoto-1164669481-612x612.jpg);
  }
  .image-gc-5{
-    background-image:url(/Projects/img/istockphoto-1209233422-612x612.jpg);
+    background-image:url(istockphoto-1209233422-612x612.jpg);
  }
  .image-gc-6{
-    background-image:url(/Projects/img/istockphoto-502087167-612x612.jpg);
+    background-image:url(istockphoto-502087167-612x612.jpg);
  }
  .image-gc-7{
-    background-image:url(/Projects/img/istockphoto-871272538-612x612.jpg);
+    background-image:url(istockphoto-871272538-612x612.jpg);
  }
  .image-gc-8{
-    background-image:url(/Projects/img/istockphoto-966904852-612x612.jpg);
+    background-image:url(istockphoto-966904852-612x612.jpg);
  }
  .image-gc-9{
-    background-image:url(/Projects/img/images\ \(1\).jpg);
+    background-image:url(images\ \(1\).jpg);
  }
  .image-gc-1:hover{
     transform: scale(1.1);
